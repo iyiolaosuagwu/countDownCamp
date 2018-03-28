@@ -1,0 +1,38 @@
+ul li{
+    display: inline;
+    margin: 0px 6px;
+    border: 2px solid skyblue;
+    padding: 10px;
+    color: #777;
+    font-size: 1.2rem;
+}
+
+.App{
+    text-align: center;
+    font-size: 30px;
+    padding: 15% 0%;
+    background-color: powderblue;
+    height: 100vh;
+}
+
+.countDown{
+    font-size: 2rem;
+    
+}
+
+input{
+    height: 1.9rem;
+    width: 270px;
+    padding-left: 10px;
+    border: 2px solid skyblue;
+}
+
+button{
+    /* height: 2.1rem; */
+    padding: 9px 35px;
+    text-transform: uppercase;
+    background: transparent;
+    border: 2px solid skyblue;
+}
+
+
